@@ -1,0 +1,27 @@
+html {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+
+/* font-family: 'Noto Sans', sans-serif; */
+
+.background-mission {
+    background-image: url(../images/convertkit-xCmlTJmMyhQ-unsplash.jpg);
+    width: 700px;
+    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+}
+
+/* trip links */
+
+img {
+    height: 200px;
+    width: 300px;
+  }
